@@ -1,7 +1,3 @@
 # SmartQuiz
-A Web-based quiz application with AI generated questions and student ratings to evaluate usefulness of questions.
 
-Tech stack:
-- Frontend: React
-- Backend: Django REST framework
-- Database: PostgreSQL
+A full-stack web application built with React and Django that allows students to evaluate AI-generated assessment questions by rating them as useful or not useful. The collected feedback can then be used by educators to identify low and high quality assessment content.
